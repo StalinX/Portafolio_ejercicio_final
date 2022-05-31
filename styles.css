@@ -68,7 +68,7 @@ body {
 }
 
 .header-img {
-  background: center / contain no-repeat url(./images/cris.jpeg);
+  background: center / contain no-repeat url(./images/stalin.png);
   border-radius: 50%;
   border: 1px solid var(--gris-oscuro);
   box-shadow: 8px 16px 32px 0px var(--shadow);
@@ -103,6 +103,7 @@ body {
 .intro {
   margin: 0 196px;
   font-family: var(--secondary-font);
+  color: var(--blanco);
 }
 
 .social-media {
